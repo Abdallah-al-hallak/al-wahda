@@ -17,11 +17,11 @@ class TopLevel extends StatelessWidget {
           items: const [
             BottomNavigationBarItem(
               icon: Icon(Icons.home),
-              label: 'Books',
+              label: 'Home',
             ),
             BottomNavigationBarItem(
               icon: Icon(Icons.article),
-              label: 'Account',
+              label: 'Schedule',
             ),
           ],
         );

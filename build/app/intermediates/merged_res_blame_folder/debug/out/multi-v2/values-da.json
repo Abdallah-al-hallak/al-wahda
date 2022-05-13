@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\VSCode\\appwrite_renew\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
+            "outputFile": "E:\\VSCode\\al-wahda-1\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Abdallah\\.gradle\\caches\\transforms-2\\files-2.1\\aedf566e5f243b523c377082a7dcd67b\\browser-1.3.0\\res\\values-da\\values-da.xml",

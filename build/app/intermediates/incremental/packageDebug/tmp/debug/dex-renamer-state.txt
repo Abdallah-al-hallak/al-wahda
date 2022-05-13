@@ -1,4 +1,4 @@
-#Wed May 11 06:32:33 EEST 2022
-base.0=E\:\\VSCode\\appwrite_renew\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed May 11 21:32:27 EEST 2022
+base.0=E\:\\VSCode\\al-wahda-1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
